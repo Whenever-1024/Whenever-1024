@@ -1,15 +1,14 @@
 <!-- ![other](./motiv.gif)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=reactifyStudio&color=00cf00) -->
-### Check out my website :point_right: [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Whenever+1024+%7C+Python+dev)](https://git.io/typing-svg)
-
- 
+### Check out my website :point_right: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Whenever+1024+%7C+Python+dev)](https://git.io/typing-svg) 
 
 <pre align="center">
 When you strive to comprehend your code, you a create better workflow 
 and become better at what you do. Your code isn't just your job anymore,
 it's your craft.
 </pre>
-<h3 align="center"> Tech stack and Tools 🛠️</h3>
+<h1 align="center"> Tech stack and Tools 🛠️</h1>
 <p align="center">
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -33,9 +32,17 @@ it's your craft.
 </p>
 
 <p align="center">
-I'm a student at Jomo Kenyatta University Of Agriculture And Technology pursuing a computer science degree. My interest in tech is Web and building microservice infrastructure on the cloud. 
+My name is Prem Kumar, and I enjoy developing new things in and outside of my work.
+
+Coming from Electrical background, I transitioned into a career of software, primarily by doing personal projects and completing online courses from Udemy to build up the basics in software development.
+
+After a number of interviews, I was given the opportunity as a Machine Learning Engineer at WISE AI.
+
+At WISE AI, I develop Passive Face Anti-Spoofing algorithms using Deep Learning. During the development, I actively try to get my hands deep into some of the popular frameworks and tools.
+ 
+My interest in tech is Web and building microservice infrastructure on the cloud. 
 </p>  
-<h3 align="left"> What Do I Do? </h3>
+<h1 align="left"> What Do I Do? </h1>
 <p align="left"> 
 - 🤖 I’m currently a Machine Learning Engineer in WISE AI building end to end eKYC pipeline for Face Anti Spoofing
 
