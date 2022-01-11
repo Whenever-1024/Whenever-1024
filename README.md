@@ -1,6 +1,6 @@
 <!-- ![other](./motiv.gif)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=reactifyStudio&color=00cf00) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Whenever+1024+%7C+Python+dev)](https://git.io/typing-svg)
+### Check out my website :point_right: [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Whenever+1024+%7C+Python+dev)](https://git.io/typing-svg)
 
  
 
@@ -9,7 +9,7 @@ When you strive to comprehend your code, you a create better workflow
 and become better at what you do. Your code isn't just your job anymore,
 it's your craft.
 </pre>
-<h1 align="center"> Tech stack and Tools 🛠️</h1>
+<h3 align="center"> Tech stack and Tools 🛠️</h3>
 <p align="center">
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -31,14 +31,19 @@ it's your craft.
  <img src="https://img.shields.io/badge/Jupyter%20-%23092E20.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
  <img src="https://img.shields.io/badge/Docker%20-%23E0234E.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
 </p>
-<p>
- <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
-</p>
 
 <p align="center">
 I'm a student at Jomo Kenyatta University Of Agriculture And Technology pursuing a computer science degree. My interest in tech is Web and building microservice infrastructure on the cloud. 
 </p>  
+<h3 align="left"> What Do I Do? </h3>
+<p align="left"> 
+- 🤖 I’m currently a Machine Learning Engineer in WISE AI building end to end eKYC pipeline for Face Anti Spoofing
 
+- 📝 I regularly write articles on [Medium](https://medium.com/@premstroke95)
+
+- 📄 Take a look at my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/premstrk/)
+
+- 👋 I’m looking to collaborate on good projects that will improve my skills 
 
 <h1 align="center"> GitHub Activity </h1>
   <table align="center">
