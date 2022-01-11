@@ -25,9 +25,14 @@ it's your craft.
  <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img src ="https://img.shields.io/badge/Mysql-%234ea94b.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+ <img src="https://img.shields.io/badge/opencv%20-%23E0234E.svg?&style=for-the-badge&logo=opencv&logoColor=white" />
+ <img src="https://img.shields.io/badge/Pandas%20-%23E0234E.svg?&style=for-the-badge&logo=Pandas&logoColor=white" />
+ <img src="https://img.shields.io/badge/Tensorflow%20-%23E0234E.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white" />
+ <img src="https://img.shields.io/badge/Jupyter%20-%23E0234E.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+ <img src="https://img.shields.io/badge/Docker%20-%23E0234E.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
 </p>
 <p>
- <img src ="https://img.shields.io/badge/opencv-%20-%23E0234E.svg?&style=for-the-badge&logo=opencv&logoColor=red"/>
+ <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
 </p>
 
 <p align="center">
