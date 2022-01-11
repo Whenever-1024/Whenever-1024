@@ -27,7 +27,7 @@ it's your craft.
  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 <p>
- <img src ="https://img.shields.io/badge/opencv-%234ea94b.svg?&style=for-the-badge&logo=opencv&logoColor=red"/>
+ <img src ="https://img.shields.io/badge/opencv-%20-%23E0234E.svg?&style=for-the-badge&logo=opencv&logoColor=red"/>
 </p>
 
 <p align="center">
