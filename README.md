@@ -46,7 +46,7 @@ it's your craft.
 
 
 <h1 align="center"> What Do I Do? </h1>
-<p align="left"> 
+
  - 🤖 I’m currently a Machine Learning Engineer in WISE AI building end to end eKYC pipeline for Face Anti Spoofing
 
  - 📝 I regularly write articles on [Medium](https://medium.com/@premstroke95)
@@ -58,11 +58,10 @@ it's your craft.
 <h1 align="center"> GitHub Activity </h1>
   <table align="center">
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=FelixDaudi&show_icons=true&theme=synthwave"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixDaudi&hide=css,html&count_private=true&theme=synthwave&layout=compact"/></td>      
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Whenever-1024&show_icons=true&theme=synthwave"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whenever-1024&hide=css,html&count_private=true&theme=synthwave&layout=compact"/></td>      
   </tr>   
 </table>
-
 
 <p align="center">
 I participate in open source by building software products that impacts developers and users.
@@ -71,11 +70,4 @@ Open source is where my mind goes open and learning tech is my full-time job.
  </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FelixDaudi&theme=react&ring=2BDD18&fire=DD2727&currStreakLabel=DD4D5E&sideLabels=DD636E" alt="streak" />
-</p>
-
-<p align="center">
-    <h3 align="center"> GitHub is my corner of the internet</h3>
-</p>
-<p align="center">
- <pre>Once swam to the end of an infinity pool, no thought 💭 goes unpublished</pre>
 </p>
