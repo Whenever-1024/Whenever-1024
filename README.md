@@ -1,5 +1,18 @@
 <!-- ![other](./motiv.gif)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=reactifyStudio&color=00cf00) -->
+<h1 align="center"> Hey there! I'm Prem Kumar </h1>
+<p align="left"> 
+My name is Prem Kumar, and I enjoy developing new things in and outside of my work.
+
+Coming from Electrical background, I transitioned into a career of software, primarily by doing personal projects and completing online courses from Udemy to build up the basics in software development.
+
+After a number of interviews, I was given the opportunity as a Machine Learning Engineer at WISE AI.
+
+At WISE AI, I develop Passive Face Anti-Spoofing algorithms using Deep Learning. During the development, I actively try to get my hands deep into some of the popular frameworks and tools.
+ 
+My interest in tech is Web and building microservice infrastructure on the cloud. 
+</p>  
+
 ### Check out my website :point_right: 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Whenever+1024+%7C+Python+dev)](https://git.io/typing-svg) 
 
@@ -31,27 +44,17 @@ it's your craft.
  <img src="https://img.shields.io/badge/Docker%20-%23E0234E.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
 </p>
 
-<p align="center">
-My name is Prem Kumar, and I enjoy developing new things in and outside of my work.
 
-Coming from Electrical background, I transitioned into a career of software, primarily by doing personal projects and completing online courses from Udemy to build up the basics in software development.
-
-After a number of interviews, I was given the opportunity as a Machine Learning Engineer at WISE AI.
-
-At WISE AI, I develop Passive Face Anti-Spoofing algorithms using Deep Learning. During the development, I actively try to get my hands deep into some of the popular frameworks and tools.
- 
-My interest in tech is Web and building microservice infrastructure on the cloud. 
-</p>  
-<h1 align="left"> What Do I Do? </h1>
+<h1 align="center"> What Do I Do? </h1>
 <p align="left"> 
-- 🤖 I’m currently a Machine Learning Engineer in WISE AI building end to end eKYC pipeline for Face Anti Spoofing
+ - 🤖 I’m currently a Machine Learning Engineer in WISE AI building end to end eKYC pipeline for Face Anti Spoofing
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@premstroke95)
+ - 📝 I regularly write articles on [Medium](https://medium.com/@premstroke95)
 
-- 📄 Take a look at my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/premstrk/)
+ - 📄 Take a look at my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/premstrk/)
 
-- 👋 I’m looking to collaborate on good projects that will improve my skills 
-
+ - 👋 I’m looking to collaborate on good projects that will improve my skills 
+</p>
 <h1 align="center"> GitHub Activity </h1>
   <table align="center">
   <tr>
