@@ -1,8 +1,8 @@
 <!-- ![other](./motiv.gif)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=reactifyStudio&color=00cf00) -->
-<h1 align="center"> Hey there! I'm Prem Kumar </h1>
+<h1 align="center"> Hey there! I'm Danil Ukolov </h1>
 <p align="left"> 
-My name is Prem Kumar, and I enjoy developing new things in and outside of my work.
+My name is Danil Ukolov, and I enjoy developing new things in and outside of my work.
 
 Coming from Electrical background, I transitioned into a career of software, primarily by doing personal projects and completing online courses from Udemy to build up the basics in software development.
 
@@ -49,9 +49,9 @@ it's your craft.
 
  - 🤖 I’m currently a Machine Learning Engineer in WISE AI building end to end eKYC pipeline for Face Anti Spoofing
 
- - 📝 I regularly write articles on [Medium](https://medium.com/@premstroke95)
+<!--> - 📝 I regularly write articles on [Medium](https://medium.com/@premstroke95)
 
- - 📄 Take a look at my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/premstrk/)
+ - 📄 Take a look at my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/premstrk/)</-->
 
  - 👋 I’m looking to collaborate on good projects that will improve my skills 
 </p>
