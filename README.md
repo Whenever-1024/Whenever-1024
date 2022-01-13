@@ -49,9 +49,7 @@ it's your craft.
 
  - 🤖 I’m currently a Machine Learning Engineer in WISE AI building end to end eKYC pipeline for Face Anti Spoofing
 
-<!--> - 📝 I regularly write articles on [Medium](https://medium.com/@premstroke95)
-
- - 📄 Take a look at my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/premstrk/)</-->
+ - 📄 Take a look at my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/premstrk/)
 
  - 👋 I’m looking to collaborate on good projects that will improve my skills 
 </p>
