@@ -14,7 +14,8 @@ My interest in tech is Web and building microservice infrastructure on the cloud
 </p>  
 
 ### Check out my website :point_right: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Whenever+1024+%7C+Python+dev)](https://git.io/typing-svg) 
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Whenever+1024+%7C+Python+dev)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Contact+%7C+Me)](https://mailto:danil.ukolov2019@gmail.com) 
 
 <pre align="center">
 When you strive to comprehend your code, you a create better workflow 
@@ -49,7 +50,8 @@ it's your craft.
 
  - 🤖 I’m currently a Machine Learning Engineer in WISE AI building end to end eKYC pipeline for Face Anti Spoofing
 
- - 📄 Take a look at my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/premstrk/)
+ <!--- 📄 Take a look at my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/premstrk/)-->
+ 
  - 📄 My skype account id is live:.cid.2ad86cd2099c6b2e.
 
  - 👋 I’m looking to collaborate on good projects that will improve my skills 
