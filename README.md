@@ -50,6 +50,7 @@ it's your craft.
  - 🤖 I’m currently a Machine Learning Engineer in WISE AI building end to end eKYC pipeline for Face Anti Spoofing
 
  - 📄 Take a look at my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/premstrk/)
+ - 📄 My skype account live id is live:.cid.2ad86cd2099c6b2e.
 
  - 👋 I’m looking to collaborate on good projects that will improve my skills 
 </p>
