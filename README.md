@@ -15,7 +15,7 @@ My interest in tech is Web and building microservice infrastructure on the cloud
 
 ### Check out my website :point_right: 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Whenever+1024+%7C+Python+dev)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Contact+%7C+Me)](https://mailto:danil.ukolov2019@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Contact+%7C+Me)](danil.ukolov2019@gmail.com) 
 
 <pre align="center">
 When you strive to comprehend your code, you a create better workflow 
