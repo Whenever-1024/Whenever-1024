@@ -1,6 +1,6 @@
 <!-- ![other](./motiv.gif)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=reactifyStudio&color=00cf00) -->
-<h1 align="center"> Hey there! I'm Danil Ukolov </h1>
+<h1 align="center"> Hey there! </h1>
 <p align="left"> 
 My name is Danil Ukolov, and I enjoy developing new things in and outside of my work.
 
