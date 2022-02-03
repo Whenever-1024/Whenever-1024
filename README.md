@@ -55,6 +55,7 @@ it's your craft.
  - 📄 My skype account id is live:.cid.2ad86cd2099c6b2e.
 
  - 📄 My gmail is danil.ukolov2019@gmail.com.
+ - 📄 My linkedin is https://www.linkedin.com/in/danil-ukolov-a24863227/.
 
  - 👋 I’m looking to collaborate on good projects that will improve my skills 
 </p>
