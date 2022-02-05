@@ -32,12 +32,12 @@ it's your craft.
  <img src="https://img.shields.io/badge/expressjs%20-%23404d59.svg?&style=for-the-badge&logo=expressjs&logoColor=white"/>
  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
- <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
  <img src="https://img.shields.io/badge/php%20-%23E0234E.svg?&style=for-the-badge&logo=php&logoColor=white" />
  <img src="https://img.shields.io/badge/laravel%20-%23593d88.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
  <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img src="https://img.shields.io/badge/Mysql%20-%23007ACC.svg?&style=for-the-badge&logo=Mysql&logoColor=white"/>
  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+ <img src="https://img.shields.io/badge/DBArchitecture%20-%2338B2AC.svg?&style=for-the-badge&logo=architecture&logoColor=white"/>
  <img src="https://img.shields.io/badge/opencv%20-%2320232a.svg?&style=for-the-badge&logo=opencv&logoColor=%2361DAFB"/>
  <img src="https://img.shields.io/badge/Pandas%20-%23404d59.svg?&style=for-the-badge&logo=Pandas&logoColor=white"/>
  <img src="https://img.shields.io/badge/Tensorflow%20-%2314354C.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white"/>
