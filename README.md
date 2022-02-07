@@ -49,8 +49,8 @@ it's your craft.
 <h1 align="center"> What Do I Do? </h1>
 
  - 🤖 I’m Full Stack Web Developer. The websites that I am currently creating is following:
-      http://losmagz.com/        (Video Chat Website using WebRTC)
-      http://54.161.147.89:8000/ (Warranty Revenue Project)
+      <p>http://losmagz.com/        (Video Chat Website using WebRTC)</p>
+      <p>http://54.161.147.89:8000/ (Warranty Revenue Project)</p>
  - 🤖 I’m also a Machine Learning Engineer in WISE AI building end to end eKYC pipeline for Face Anti Spoofing
 
  <!--- 📄 Take a look at my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/premstrk/)-->
