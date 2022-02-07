@@ -48,14 +48,18 @@ it's your craft.
 
 <h1 align="center"> What Do I Do? </h1>
 
- - 🤖 I’m currently a Machine Learning Engineer in WISE AI building end to end eKYC pipeline for Face Anti Spoofing
+ - 🤖 I’m Full Stack Web Developer. The websites that I am currently creating is following:
+      http://losmagz.com/        (Video Chat Website using WebRTC)
+      http://54.161.147.89:8000/ (Warranty Revenue Project)
+ - 🤖 I’m also a Machine Learning Engineer in WISE AI building end to end eKYC pipeline for Face Anti Spoofing
 
  <!--- 📄 Take a look at my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/premstrk/)-->
+ - 📄 Take a look at my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/danil-ukolov-a24863227/)
  
  - 📄 My skype account id is live:.cid.2ad86cd2099c6b2e.
 
  - 📄 My gmail is danil.ukolov2019@gmail.com.
- - 📄 My linkedin is https://www.linkedin.com/in/danil-ukolov-a24863227/.
+ 
 
  - 👋 I’m looking to collaborate on good projects that will improve my skills 
 </p>
