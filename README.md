@@ -26,8 +26,8 @@ it's your craft.
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/reactjs%20-%2320232a.svg?&style=for-the-badge&logo=reactjs&logoColor=%2361DAFB"/>
- <img src="https://img.shields.io/badge/vuejs%20-%2320232a.svg?&style=for-the-badge&logo=vuejs&logoColor=%2361DAFB"/>
+ <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ <img src="https://img.shields.io/badge/vue.js%20-%2320232a.svg?&style=for-the-badge&logo=vue.js&logoColor=%2361DAFB"/>
  <img src="https://img.shields.io/badge/angularjs%20-%23593d88.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
  <img src="https://img.shields.io/badge/expressjs%20-%23404d59.svg?&style=for-the-badge&logo=expressjs&logoColor=white"/>
  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
