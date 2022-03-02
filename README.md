@@ -6,11 +6,10 @@ My name is Danil Ukolov, and I enjoy developing new things in and outside of my 
 
 Coming from Electrical background, I transitioned into a career of software, primarily by doing personal projects and completing online courses from Udemy to build up the basics in software development.
 
-After a number of interviews, I was given the opportunity as a Machine Learning Engineer at WISE AI.
-
-At WISE AI, I develop Passive Face Anti-Spoofing algorithms using Deep Learning. During the development, I actively try to get my hands deep into some of the popular frameworks and tools.
+After a number of interviews, I was given the opportunity as a Full Stack Developer.
+I'm working as a WebSite Developer for the last 5 years and have build more than 12 websites.
  
-My interest in tech is Web and building microservice infrastructure on the cloud. 
+My interest in tech is Web and building microservice infrastructure on the cloud.
 </p>  
 
 ### Check out my website :point_right: 
