@@ -4,7 +4,7 @@
 <p align="left"> 
 My name is Danil Ukolov, and I enjoy developing new things in and outside of my work.
 
-Coming from Electrical background, I transitioned into a career of software, primarily by doing personal projects and completing online courses from Udemy to build up the basics in software development.
+I transitioned into a career of software, primarily by doing personal projects and completing online courses from Udemy to build up the basics in software development.
 
 After a number of interviews, I was given the opportunity as a Full Stack Developer.
 I'm working as a WebSite Developer for the last 5 years and have build more than 12 websites.
