@@ -32,14 +32,6 @@ it's your craft.
  <img src="https://img.shields.io/badge/cloudfront%20-%2314354C.svg?&style=for-the-badge&logo=cloudfront&logoColor=white"/>
  <img src="https://img.shields.io/badge/cloudwatch%20-%23092E20.svg?&style=for-the-badge&logo=cloudwatch&logoColor=white"/>
  <img src="https://img.shields.io/badge/cloudtrail%20-%23593d88.svg?&style=for-the-badge&logo=cloudtrail&logoColor=white"/>
- <img src="https://img.shields.io/badge/Mysql%20-%23007ACC.svg?&style=for-the-badge&logo=Mysql&logoColor=white"/>
- <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
- <img src="https://img.shields.io/badge/DBArchitecture%20-%2338B2AC.svg?&style=for-the-badge&logo=architecture&logoColor=white"/>
- <img src="https://img.shields.io/badge/opencv%20-%2320232a.svg?&style=for-the-badge&logo=opencv&logoColor=%2361DAFB"/>
- <img src="https://img.shields.io/badge/Pandas%20-%23404d59.svg?&style=for-the-badge&logo=Pandas&logoColor=white"/>
- <img src="https://img.shields.io/badge/Tensorflow%20-%2314354C.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white"/>
- <img src="https://img.shields.io/badge/Jupyter%20-%23092E20.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
- <img src="https://img.shields.io/badge/Docker%20-%23E0234E.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
 </p>
 
 <p align="center">
