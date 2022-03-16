@@ -24,10 +24,10 @@ it's your craft.
 <h1 align="center"> Tech stack and Tools 🛠️</h1>
 <p align="center">
  <img src="https://img.shields.io/badge/aws%20-%23323330.svg?&style=for-the-badge&logo=aws&logoColor=%23F7DF1E"/>
- <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
- <img src="https://img.shields.io/badge/vue.js%20-%2320232a.svg?&style=for-the-badge&logo=vue.js&logoColor=%2361DAFB"/>
+ <img src="https://img.shields.io/badge/ec2%20-%23007ACC.svg?&style=for-the-badge&logo=ec2&logoColor=white"/>
+ <img src="https://img.shields.io/badge/s3%20-%2343853D.svg?&style=for-the-badge&logo=s3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/dynamodb%20-%2320232a.svg?&style=for-the-badge&logo=dynamodb&logoColor=%2361DAFB"/>
+ <img src="https://img.shields.io/badge/lambda%20-%2320232a.svg?&style=for-the-badge&logo=lambda&logoColor=%2361DAFB"/>
  <img src="https://img.shields.io/badge/angularjs%20-%23593d88.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
  <img src="https://img.shields.io/badge/expressjs%20-%23404d59.svg?&style=for-the-badge&logo=expressjs&logoColor=white"/>
  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
