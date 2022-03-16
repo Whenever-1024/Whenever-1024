@@ -23,18 +23,15 @@ it's your craft.
 </pre>
 <h1 align="center"> Tech stack and Tools 🛠️</h1>
 <p align="center">
- <img src="https://img.shields.io/badge/aws%20-%23323330.svg?&style=for-the-badge&logo=aws&logoColor=%23F7DF1E"/>
+ <img src="https://img.shields.io/badge/aws%20-%23E0234E.svg?&style=for-the-badge&logo=aws&logoColor=white" />
  <img src="https://img.shields.io/badge/ec2%20-%23007ACC.svg?&style=for-the-badge&logo=ec2&logoColor=white"/>
  <img src="https://img.shields.io/badge/s3%20-%2343853D.svg?&style=for-the-badge&logo=s3&logoColor=white"/>
  <img src="https://img.shields.io/badge/dynamodb%20-%2320232a.svg?&style=for-the-badge&logo=dynamodb&logoColor=%2361DAFB"/>
- <img src="https://img.shields.io/badge/lambda%20-%2320232a.svg?&style=for-the-badge&logo=lambda&logoColor=%2361DAFB"/>
- <img src="https://img.shields.io/badge/angularjs%20-%23593d88.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
- <img src="https://img.shields.io/badge/expressjs%20-%23404d59.svg?&style=for-the-badge&logo=expressjs&logoColor=white"/>
- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
- <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
- <img src="https://img.shields.io/badge/php%20-%23E0234E.svg?&style=for-the-badge&logo=php&logoColor=white" />
- <img src="https://img.shields.io/badge/laravel%20-%23593d88.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
- <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/lambda%20-%23593d88.svg?&style=for-the-badge&logo=lambda&logoColor=white"/>
+ <img src="https://img.shields.io/badge/awssdk%20-%23404d59.svg?&style=for-the-badge&logo=awssdk&logoColor=white"/>
+ <img src="https://img.shields.io/badge/cloudfront%20-%2314354C.svg?&style=for-the-badge&logo=cloudfront&logoColor=white"/>
+ <img src="https://img.shields.io/badge/cloudwatch%20-%23092E20.svg?&style=for-the-badge&logo=cloudwatch&logoColor=white"/>
+ <img src="https://img.shields.io/badge/cloudtrail%20-%23593d88.svg?&style=for-the-badge&logo=cloudtrail&logoColor=white"/>
  <img src="https://img.shields.io/badge/Mysql%20-%23007ACC.svg?&style=for-the-badge&logo=Mysql&logoColor=white"/>
  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
  <img src="https://img.shields.io/badge/DBArchitecture%20-%2338B2AC.svg?&style=for-the-badge&logo=architecture&logoColor=white"/>
