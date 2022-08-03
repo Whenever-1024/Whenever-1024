@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=reactifyStudio&color=00cf00) -->
 <h1 align="center"> Hey there! </h1>
 <p align="left"> 
-My name is Danil Ukolov, and I enjoy developing new things in and outside of my work.
+I enjoy developing new things in and outside of my work.
 
 I transitioned into a career of software, primarily by doing personal projects and completing online courses from Udemy to build up the basics in software development.
 
