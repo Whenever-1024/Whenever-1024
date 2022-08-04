@@ -38,7 +38,7 @@ it's your craft.
  <img src="https://img.shields.io/badge/Solidity%20-%23007ACC.svg?&style=for-the-badge&logo=Solidity&logoColor=white"/>
  <img src="https://img.shields.io/badge/smartcontract%20-%2343853D.svg?&style=for-the-badge&logo=smartcontract&logoColor=white"/>
  <img src="https://img.shields.io/badge/dynamodb%20-%2320232a.svg?&style=for-the-badge&logo=crypto-wallet&logoColor=%2361DAFB"/>
- <img src="https://img.shields.io/badge/NFT-Marketing%20-%23092E20.svg?&style=for-the-badge&logo=NFT-Marketing&logoColor=white"/>
+ <img src="https://img.shields.io/badge/NFTMarketing%20-%23092E20.svg?&style=for-the-badge&logo=NFT-Marketing&logoColor=white"/>
 </p>
 <p align="center">
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
